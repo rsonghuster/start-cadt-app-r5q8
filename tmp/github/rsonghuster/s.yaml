@@ -1,0 +1,5 @@
+edition: 3.0.0  
+name: cadtApp       
+access: 'undefined'
+
+resources: '[object Object]'
